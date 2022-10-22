@@ -1,5 +1,5 @@
 /* This Pipeline code are create the some multi branch pipeline
- This file are content the master branch data  */
+ This file are content the master branch data on  */
 
 pipeline
 {
